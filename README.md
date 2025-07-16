@@ -27,46 +27,46 @@ This project explores the Titanic dataset to extract key insights about passenge
 ## Questions Answered
 
 1. **What was the average age of passengers who died?**
-   - 📌 **Result:** ~30.63 years
+   -  **Result:** ~30.63 years
 
 2. **What was the average and median fare of passengers who died?**
-   - 📌 **Average:** $22.12  
-   - 📌 **Median:** $10.50  
-   - 🧯 *Most paid lower fares; high-paying passengers were rare outliers.*
+   -  **Average:** $22.12  
+   -  **Median:** $10.50  
+   -  *Most paid lower fares; high-paying passengers were rare outliers.*
 
 3. **What was the average age of deceased males?**
-   - 📌 **Result:** ~31.62 years
+   -  **Result:** ~31.62 years
 
 4. **What was the average age of deceased females?**
-   - 📌 **Result:** ~25.05 years  
-   - 📊 *Females who died were younger on average than males.*
+   -  **Result:** ~25.05 years  
+   -  *Females who died were younger on average than males.*
 
 5. **What was the average age of survivors?**
-   - 📌 **Result:** ~28.34 years
+   -  **Result:** ~28.34 years
 
 6. **What was the average fare of survivors?**
-   - 📌 **Result:** $48.40  
-   - 💡 *Higher fare → greater likelihood of survival*
+   -  **Result:** $48.40  
+   -  *Higher fare → greater likelihood of survival*
 
 7. **How many people survived?**
-   - 📌 **Total survivors:** 342
+   -  **Total survivors:** 342
 
 8. **What was the median fare of children under 10?**
-   - 📌 **Result:** $27.00
+   -  **Result:** $27.00
 
 9. **How do fares vary by passenger class (1st, 2nd, 3rd)?**
-   - 📈 **Mean & Median Fares:**
+   -  **Mean & Median Fares:**
      | Class | Mean ($) | Median ($) |
      |-------|----------|-------------|
      | 1st   | 84.15    | 60.29       |
      | 2nd   | 20.66    | 14.25       |
      | 3rd   | 13.68    | 8.05        |
-   - ✳️ *Clear correlation between fare and class.*
+   -  *Clear correlation between fare and class.*
 
 10. **Compare death rates between men and women.**
-    - 🧔 **Men:** 81.1% death rate  
-    - 👩 **Women:** 25.8% death rate  
-    - 📌 *Women had a significantly higher chance of survival.*
+    -  **Men:** 81.1% death rate  
+    -  **Women:** 25.8% death rate  
+    -  *Women had a significantly higher chance of survival.*
 
 ---
 
