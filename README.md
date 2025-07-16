@@ -56,6 +56,7 @@ This project explores the Titanic dataset to extract key insights about passenge
 
 9. **How do fares vary by passenger class (1st, 2nd, 3rd)?**
    -  **Mean & Median Fares:**
+     
      | Class | Mean ($) | Median ($) |
      |-------|----------|-------------|
      | 1st   | 84.15    | 60.29       |
